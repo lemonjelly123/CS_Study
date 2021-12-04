@@ -2,7 +2,7 @@
 
 2021.12 부터 시작된 스터디입니다.
 
-## 🐳 개발 상식 .[Link].(https://github.com/lemonjelly123/CS_Study/)
+## 🐳 개발 상식 [Link](https://github.com/lemonjelly123/CS_Study/)
 
 - Git 과 GitHub 에 대해서
 
